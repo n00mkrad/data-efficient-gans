@@ -1,3 +1,7 @@
+# n00mkrad's Colab Fork
+
+This fork primarily exists for specific changes I made to the training code in order to use it on Google Colab, like an increase of the checkpoint rate.
+
 # Data-Efficient GANs with DiffAugment
 
 ### [project](https://data-efficient-gans.mit.edu/) | [paper](https://arxiv.org/pdf/2006.10738)
